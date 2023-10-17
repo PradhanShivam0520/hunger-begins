@@ -1,2 +1,5 @@
 # hunger-begins
-Ui/Ux  design for pizza booking site with maximum facility like, cart,order creation
+very simple Ui/Ux design for a pizza booking site 
+A user can order pizza by just loging in with their name 
+used custom hooks, redux , redux-toolkit to manage the states and app fuctionality.
+various main functionality like creating order, cart etc. many more functionality is provided
